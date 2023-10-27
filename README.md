@@ -11,4 +11,3 @@
 
 - [sanic-review](https://www.fullstackpython.com/sanic.html)
 - [sanic-starter](https://github.com/seanpar203/sanic-starter)
-- []
